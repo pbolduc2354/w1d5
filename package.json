@@ -1,0 +1,22 @@
+{
+  "name": "w1d5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbolduc2354/w1d5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbolduc2354/w1d5/issues"
+  },
+  "homepage": "https://github.com/pbolduc2354/w1d5#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
